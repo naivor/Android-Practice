@@ -1,1 +1,1 @@
-include ':jsbridge'
+include ':jsbridge', ':junittest', ':opengl', ':mocktest', ':robolectrictest'
